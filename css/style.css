@@ -624,7 +624,7 @@ header .navbar li{
 }
 @media(max-width: 472px){
     .newsletter form .email{
-        width: auto;
+        width: 160px;
     }
     .footer{
         flex-direction: column;
